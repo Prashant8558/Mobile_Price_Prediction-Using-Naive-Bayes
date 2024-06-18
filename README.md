@@ -1,4 +1,4 @@
-# Mobile_Price_Prediction-Using-Navie-Bayes:
+# Mobile_Price_Prediction-Using-Naive-Bayes:
 
 # Overview:-
 
